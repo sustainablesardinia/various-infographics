@@ -1,3 +1,9 @@
+# helpers.py
+
+"""A collection of helpers for the infographics"""
+
+# Copyright 2022 Sustainable Sardinia
+
 import matplotlib
 
 
@@ -17,7 +23,7 @@ def set_style():
         "title_size": 26,
         "axis_label_size": 18,
         "tick_label_size": 15,
-        "description_text_size": 12,
+        "description_text_size": 14,
         "small_text_size": 10,
         "max_description_text_characters": 100,
     }
